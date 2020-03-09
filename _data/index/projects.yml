@@ -1,22 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
+- name: End to End Automation of Entire  Medical Transcription Workflow (Unstructured Medical dictation to Formatted Word documents)
+  i18n: 
+  gh_user: Aliabbas Petiwala
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: BREXIT was looming large and the value pound was 20% down, good quality of medical transcribers were hard to come by in our UK clinical documentation company. In this context this very ambitious project of complete AI based automation of the Entire medical transcription workflow took birth. Medical Transcription involved many stages namely manual medical transcription of audio, proofreading, quality assurance and submission to client. I oversaw the speech recognition project where we developed our own models which reached 91% accuracy using state of the art deep learning models. I was given complete ownership of transforming speech recognition produced verbatim spoken text to fully formatted MS Word documents. Transforming pure raw text without any punctuation or signals to formatted documents was a very challenging task yet it was conquered using an optimal combination of conventional machine learning, deep learning and rule based systems. I single handedly designed and developed the complete infrastructure and software to accomplish this within six months time completely eliminating the manual processes except for some minor touch-ups and verification. Earlier a document used to take from two days to one week for submission we shortened the time to a few minutes giving a solid boost to the financials of the company when it needed it the most.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
+- name: Hybrid Grammar Correction System for a Top International editing company in India.
+
+  i18n: Aliabbas Petiwala
+  gh_user: Aliabbas Petiwala
   repo: cpython
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: I consultancy services to top scholarly communication companies catering to academic research industry. The company offers English editing, translation, and transcription services to researchers, corporates, and pharmaceutical companies worldwide. I was tasked with developing an NLP based product to automate the various proofreading and grammar correction capabilities of the editors. I worked with highly experienced linguists, doctorates and management to design and develop a framework which automates the various editing tasks on English manuscripts. I developed a Hybrid machine learning and Rule based system which automatically corrects English documents of non-native authors of English manuscripts from Japan, China and Asia.
+	I also trained the linguists to use a specially crafted language developed by me to frame the rules for grammar correction. English grammar categories like Articles, and preposition cases were handled by a supervised deep  learning system developed by me which handled 66% of the cases. Apache SPARK was used to improve the performance of the system by parallelizing the editing system.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+
+
+- name: Market intelligence suite for Lazada Singapore
+
+  i18n: Aliabbas Petiwala
+  gh_user: Aliabbas Petiwala
+  repo: cpython
+  img: /static/assets/img/landing/python.png
+  desc: Lazada is the largest e-commerce service in sout-east asia based in Singapore. My charter here at lazada is to develop competitive market intelligence capabilities which allowed us to stay ahead of the competition. As part of market intelligence suite, I developed seller mapping modules which helped in identifying the same sellers across multiple competitors. This capability allowed us to find sellers which were not selling on our platform as well as sellers on our platform selling a narrower assortment range compared to its offerings on  a competitor. We were able to cover close to 39% sellers in the Indonesia market. Similarly, I developed SKU-level competitor product matching modules for the Redmart channel in Lazada with a precision of around 97% and an almost perfect coverage.
+
